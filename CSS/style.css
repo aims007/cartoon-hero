@@ -1,0 +1,48 @@
+body{
+	;
+	margin: 0;
+	font-family: 'Marvel', sans-serif;
+	color: white;
+	font-size: 20px;
+	font-style: italic;
+
+
+}
+
+header{background-color: purple;
+	text-align: center;
+	padding-top: 50px
+	padding-bottom: 50px;
+	margin: 0;
+}
+header h1 {color: white;
+
+}
+header img {
+	
+	border-radius: 170px;
+    width: 300px;
+    border: 20px solid white
+}
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px 20px 40px;
+
+}
+main img{
+	max-width: 100%
+}
+p{color: white;}
+h2{font-size: 35px;
+color: white;}
+
+a{color: white;}
+a:hover{color: yellow;
+	background color: black;}
+
+footer{color: white;
+text-align: center;
+background: black;}
+
+footer p {margin: 0;}
